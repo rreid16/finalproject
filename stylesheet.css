@@ -1,0 +1,41 @@
+body{
+    background-color: #adb0cf;
+     color: black;
+}
+
+a{
+color: black;
+}
+
+a:hover{
+    color: yellow;
+}
+
+table{
+    border: 1px solid black;
+}
+
+.responsive{
+width: auto;
+height: auto;
+}
+
+img{
+max-width: 60%;
+max-height: 100%;
+}
+
+nav ul li {
+
+    display: inline; margin-right: 20px;
+    
+}
+
+h1{
+    text-align: center;
+}
+
+iframe{
+    max-width: 90%;
+max-height: 100%;
+}
